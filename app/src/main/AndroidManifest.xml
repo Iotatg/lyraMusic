@@ -34,7 +34,7 @@
         android:label="@string/app_name"
         android:usesCleartextTraffic="true"
         android:supportsRtl="false"
-        android:theme="@style/Theme.LyraMusic"
+        android:theme="@style/Theme.IotaMusic"
         tools:targetApi="tiramisu">
         <uses-library
             android:name="org.apache.http.legacy"
@@ -44,7 +44,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTask"
-            android:theme="@style/Theme.LyraMusic"
+            android:theme="@style/Theme.IotaMusic"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -62,6 +62,9 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
+                <data
+                    android:host="together"
+                    android:scheme="iotamusic" />
                 <data
                     android:host="together"
                     android:scheme="lyramusic" />
@@ -192,7 +195,7 @@
             android:name=".DebugActivity"
             android:exported="true"
             android:process=":crash"
-            android:theme="@style/Theme.LyraMusic">
+            android:theme="@style/Theme.IotaMusic">
         </activity>
 
     </application>

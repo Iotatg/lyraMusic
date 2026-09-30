@@ -438,7 +438,7 @@
     <string name="login">Logowanie</string>
     <string name="not_logged_in">Nie zalogowano</string>
     <string name="login_failed">Logowanie nie powiodło się</string>
-    <string name="playback_requires_youtube_music_confirmation">Potwierdź odtwarzanie w YouTube Music, a następnie wróć do Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Potwierdź odtwarzanie w YouTube Music, a następnie wróć do IotaMusic.</string>
     <string name="content_language">Domyślny język treści</string>
     <string name="content_country">Domyślny kraj zawartości</string>
     <string name="system_default">Domyślny system</string>
@@ -555,8 +555,8 @@
     <string name="restore_success">Kopia zapasowa przywrócona pomyślnie</string>
     <string name="restore_failed">Nie udało się przywrócić kopii zapasowej</string>
     <string name="discord_integration">Integracja Discorda</string>
-    <string name="discord_information">Lyra Music używa biblioteki KizzyRPC do ustawiania statusu konta Discord. Oznacza to korzystanie z połączenia bramek Discorda, które można uznać za naruszenie TOSa Discorda. Nie ma jednak znanych przypadków zawieszenia konta użytkowników z tego powodu. Używaj na własne ryzyko.
-Lyra Music rozpakuje tylko Twój token, a wszystko inne jest przechowywane lokalnie.</string>
+    <string name="discord_information">IotaMusic używa biblioteki KizzyRPC do ustawiania statusu konta Discord. Oznacza to korzystanie z połączenia bramek Discorda, które można uznać za naruszenie TOSa Discorda. Nie ma jednak znanych przypadków zawieszenia konta użytkowników z tego powodu. Używaj na własne ryzyko.
+IotaMusic rozpakuje tylko Twój token, a wszystko inne jest przechowywane lokalnie.</string>
     <string name="options">Opcje</string>
     <string name="preview">Podgląd</string>
     <string name="enable_discord_rpc">Włącz Rich Presence</string>
@@ -710,9 +710,9 @@ Lyra Music rozpakuje tylko Twój token, a wszystko inne jest przechowywane lokal
     <string name="update_notification_channel_name">Aktualizacje aplikacji</string>
     <string name="update_notification_channel_desc">Powiadomienia o nowych aktualizacjach aplikacji</string>
     <string name="update_notification_title">Dostępna aktualizacja</string>
-    <string name="update_notification_text">Lyra Music %s jest teraz dostępny</string>
+    <string name="update_notification_text">IotaMusic %s jest teraz dostępny</string>
     <string name="download">Pobierz</string>
-    <string name="permissions_title">Pozwól Lyra Music działać najlepiej</string>
+    <string name="permissions_title">Pozwól IotaMusic działać najlepiej</string>
     <string name="permissions_subtitle">Używamy kilku uprawnień do rzetelnego odtwarzania i zarządzania muzyką. Możesz je zmienić w dowolnym momencie w ustawieniach systemowych.</string>
     <string name="permission_storage_title">Dostęp do pamięci</string>
     <string name="permission_storage_desc">Wymagane do odczytu pobranych i lokalnych plików audio do odtwarzania.</string>
@@ -783,10 +783,10 @@ Lyra Music rozpakuje tylko Twój token, a wszystko inne jest przechowywane lokal
     <string name="together_error_state">Błąd</string>
     <string name="got_it">Zrozumiałe</string>
     <string name="together_dont_show_again">Nie pokazuj tego ponownie</string>
-    <string name="together_welcome_title">Witaj w Lyra Music Together</string>
+    <string name="together_welcome_title">Witaj w IotaMusic Together</string>
     <string name="together_welcome_body">Muzyka Together pozwala wielu urządzeniom udostępniać sesję na żywo zsynchronizowaną kolejkę i odtwarzanie.</string>
     <string name="together_welcome_host_title">Zorganizuj sesję</string>
-    <string name="together_welcome_host_body">Stuknij sesję początkową, a następnie udostępnij link do sesji. Trzymaj Lyra Music w tle podczas hostowania.</string>
+    <string name="together_welcome_host_body">Stuknij sesję początkową, a następnie udostępnij link do sesji. Trzymaj IotaMusic w tle podczas hostowania.</string>
     <string name="together_welcome_join_title">Dołącz z innego urządzenia</string>
     <string name="together_welcome_join_body">Otwórz udostępniony link, lub wprowadź kod i naciśnij przycisk Dołącz. Twoja kolejka i odtwarzanie będzie śledzić host.</string>
     <string name="together_welcome_permissions_title">Zezwolenia i bezpieczeństwo</string>

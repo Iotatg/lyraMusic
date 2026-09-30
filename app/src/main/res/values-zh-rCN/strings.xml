@@ -411,7 +411,7 @@
     <string name="login">登录</string>
     <string name="not_logged_in">未登录</string>
     <string name="login_failed">登录失败</string>
-    <string name="playback_requires_youtube_music_confirmation">确认在YouTube Music播放，然后返回Lyra Music。</string>
+    <string name="playback_requires_youtube_music_confirmation">确认在YouTube Music播放，然后返回IotaMusic。</string>
     <string name="content_language">默认内容语言</string>
     <string name="content_country">默认内容国家</string>
     <string name="system_default">系统默认</string>
@@ -756,7 +756,7 @@
     <string name="together_error_state">错误</string>
     <string name="got_it">明白了</string>
     <string name="together_dont_show_again">不再显示</string>
-    <string name="together_welcome_title">欢迎来到Lyra Music</string>
+    <string name="together_welcome_title">欢迎来到IotaMusic</string>
     <string name="together_welcome_body">音乐联机允许多个设备与同步队列和播放共享实时会话。</string>
     <string name="together_welcome_host_title">主持会议</string>
     <string name="together_welcome_host_body">点击开始会话，然后分享会话链接。在托管时保持Lyra 音乐在后台开启。</string>

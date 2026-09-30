@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug found in Lyra Music to help us improve the application
+about: Report a bug found in IotaMusic to help us improve the application
 title: "[BUG] Brief description of the issue"
 labels: bug
 ---
@@ -22,7 +22,7 @@ labels: bug
 <!-- Describe what actually happened instead. -->
 
 ## System Information
-- **Lyra Music Version:** <!-- e.g., 1.2.3 -->
+- **IotaMusic Version:** <!-- e.g., 1.2.3 -->
 - **Android Version:** <!-- e.g., Android 13 (API 33) -->
 - **Device Model:** <!-- e.g., Samsung Galaxy S21 -->
 - **Device Architecture:** <!-- e.g., arm64-v8a, armeabi-v7a -->
@@ -64,7 +64,7 @@ Paste logcat output here
 - [ ] I have searched for existing issues before creating this report
 - [ ] I have provided all the requested information above
 - [ ] I can consistently reproduce this issue
-- [ ] I have tested on the latest version of Lyra Music
+- [ ] I have tested on the latest version of IotaMusic
 
 ---
 

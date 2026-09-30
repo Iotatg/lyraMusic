@@ -429,7 +429,7 @@
     <string name="login">Autentificare</string>
     <string name="not_logged_in">Nu ești conectat</string>
     <string name="login_failed">Autentificare eșuată</string>
-    <string name="playback_requires_youtube_music_confirmation">Confirmă redarea în YouTube Music, apoi întoarce-te la Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Confirmă redarea în YouTube Music, apoi întoarce-te la IotaMusic.</string>
     <string name="content_language">Limba implicită a conținutului</string>
     <string name="content_country">Țară conținut implicit</string>
     <string name="system_default">Implicit sistem</string>
@@ -546,7 +546,7 @@
     <string name="restore_success">Backup restaurat cu succes</string>
     <string name="restore_failed">Restaurarea backup-ului a eșuat</string>
     <string name="discord_integration">Integrare Discord</string>
-    <string name="discord_information">Lyra Music folosește biblioteca KizzyRPC pentru a seta starea contului tău Discord. Acest lucru implică utilizarea conexiunii de gateway Discord, care poate fi considerată o încălcare a TOS Discord. Cu toate acestea, nu există cazuri cunoscute de suspendare a conturilor de utilizator din acest motiv. Utilizați pe propriul risc.
+    <string name="discord_information">IotaMusic folosește biblioteca KizzyRPC pentru a seta starea contului tău Discord. Acest lucru implică utilizarea conexiunii de gateway Discord, care poate fi considerată o încălcare a TOS Discord. Cu toate acestea, nu există cazuri cunoscute de suspendare a conturilor de utilizator din acest motiv. Utilizați pe propriul risc.
 Muzica Lyra va extrage doar tokenul, iar restul este stocat local.</string>
     <string name="options">Opţiuni</string>
     <string name="preview">Previzualizare</string>
@@ -597,7 +597,7 @@ Muzica Lyra va extrage doar tokenul, iar restul este stocat local.</string>
     <string name="select_language">Selectaţi limba</string>
     <string name="close_dialog">Inchide</string>
     <string name="select_dialog">Selectare</string>
-    <string name="support_github">Star Lyra Music!</string>
+    <string name="support_github">Star IotaMusic!</string>
     <!-- Update dialog -->
     <string name="new_update_available">Actualizare nouă disponibilă</string>
     <string name="release_notes_unavailable">Notele de lansare sunt indisponibile</string>
@@ -701,7 +701,7 @@ Muzica Lyra va extrage doar tokenul, iar restul este stocat local.</string>
     <string name="update_notification_channel_name">Actualizări aplicație</string>
     <string name="update_notification_channel_desc">Notificări pentru actualizări noi ale aplicației</string>
     <string name="update_notification_title">Actualizare disponibilă</string>
-    <string name="update_notification_text">Lyra Music %s este acum disponibil</string>
+    <string name="update_notification_text">IotaMusic %s este acum disponibil</string>
     <string name="download">Descărcare</string>
     <string name="permissions_title">Permite muzicii Lyra să funcţioneze cel mai bine</string>
     <string name="permissions_subtitle">Folosim câteva permisiuni pentru a reda și a vă gestiona muzica în mod fiabil. Le puteți schimba oricând în setările de sistem.</string>
@@ -774,7 +774,7 @@ Muzica Lyra va extrage doar tokenul, iar restul este stocat local.</string>
     <string name="together_error_state">Eroare</string>
     <string name="got_it">Am înțeles</string>
     <string name="together_dont_show_again">Nu afişa asta din nou</string>
-    <string name="together_welcome_title">Bun venit la Lyra Music Împreună</string>
+    <string name="together_welcome_title">Bun venit la IotaMusic Împreună</string>
     <string name="together_welcome_body">Muzica Împreună, permite mai multor dispozitive să partajeze o sesiune live cu o coadă sincronizată și redare.</string>
     <string name="together_welcome_host_title">Găzduiți o sesiune</string>
     <string name="together_welcome_host_body">Atingeţi Sesiunea de Începere, apoi partajaţi link-ul sesiunii. Păstraţi muzica Lyra deschisă în fundal în timp ce găzduiţi.</string>

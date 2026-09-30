@@ -420,7 +420,7 @@
     <string name="login">Anmelden</string>
     <string name="not_logged_in">Nicht angemeldet</string>
     <string name="login_failed">Login fehlgeschlagen</string>
-    <string name="playback_requires_youtube_music_confirmation">Bestätigen Sie die Wiedergabe in YouTube Music, dann zurück zu Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Bestätigen Sie die Wiedergabe in YouTube Music, dann zurück zu IotaMusic.</string>
     <string name="content_language">Standard-Inhaltssprache</string>
     <string name="content_country">Standard-Inhaltsland</string>
     <string name="system_default">Systemstandard</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Sicherung erfolgreich wiederhergestellt</string>
     <string name="restore_failed">Fehler beim Wiederherstellen der Sicherung</string>
     <string name="discord_integration">Discord Integration</string>
-    <string name="discord_information">Lyra Music benutzt die KizzyRPC Bibliothek um den Status deines Discord Accounts festzulegen. Dies beinhaltet die Nutzung der Discord Gateway-Verbindung, was als Verletzung der Discord Servicebedingungen angesehen werden kann. Es gibt jedoch keine bekannten Fälle, in denen Benutzerkonten aus diesem Grund gesperrt werden. Die Nutzung erfolgt auf eigene Gefahr.
-Lyra Music extrahiert nur dein Token und alles andere wird lokal gespeichert.</string>
+    <string name="discord_information">IotaMusic benutzt die KizzyRPC Bibliothek um den Status deines Discord Accounts festzulegen. Dies beinhaltet die Nutzung der Discord Gateway-Verbindung, was als Verletzung der Discord Servicebedingungen angesehen werden kann. Es gibt jedoch keine bekannten Fälle, in denen Benutzerkonten aus diesem Grund gesperrt werden. Die Nutzung erfolgt auf eigene Gefahr.
+IotaMusic extrahiert nur dein Token und alles andere wird lokal gespeichert.</string>
     <string name="options">Optionen</string>
     <string name="preview">Vorschau</string>
     <string name="enable_discord_rpc">Rich-Präsenz aktivieren</string>
@@ -679,7 +679,7 @@ Lyra Music extrahiert nur dein Token und alles andere wird lokal gespeichert.</s
     <string name="latest_version_format">Neueste: %s</string>
     <string name="notification_settings">Benachrichtigung</string>
     <string name="enable_update_notification">Update-Benachrichtigung aktivieren</string>
-    <string name="enable_update_notification_desc">Werde benachrichtigt wenn ein neues Lyra Music Update veröffentlicht wird</string>
+    <string name="enable_update_notification_desc">Werde benachrichtigt wenn ein neues IotaMusic Update veröffentlicht wird</string>
     <string name="update_channel">Kanal aktualisieren</string>
     <string name="channel_stable">Stall</string>
     <string name="channel_nightly">Nachts</string>

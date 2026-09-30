@@ -53,11 +53,11 @@ val hasReleaseSigning =
         !releaseKeyPassword.isNullOrBlank()
 
 android {
-    namespace = "com.shnwaz.lyramusic"
+    namespace = "com.iota.iotamusic"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.shnwaz.lyramusic"
+        applicationId = "com.iota.iotamusic"
         minSdk = 26
         targetSdk = 34
         versionCode = 145

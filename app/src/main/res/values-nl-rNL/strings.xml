@@ -420,7 +420,7 @@
     <string name="login">Aanmelden</string>
     <string name="not_logged_in">Niet ingelogd</string>
     <string name="login_failed">Inloggen mislukt</string>
-    <string name="playback_requires_youtube_music_confirmation">Bevestig afspelen in YouTube-muziek en keer daarna terug naar Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Bevestig afspelen in YouTube-muziek en keer daarna terug naar IotaMusic.</string>
     <string name="content_language">Standaard inhoudstaal</string>
     <string name="content_country">Standaard land inhoud</string>
     <string name="system_default">Standaard systeeminstelling</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Back-up met succes hersteld</string>
     <string name="restore_failed">Back-up herstellen mislukt</string>
     <string name="discord_integration">Integratie met Discord</string>
-    <string name="discord_information">Lyra Music gebruikt de KizzyRPC bibliotheek om de status van je Discord account in te stellen. Dit houdt in dat je gebruik moet maken van de Discord Gateway connectie, wat kan worden beschouwd als een schending van de Discord TOS. Er zijn echter geen bekende gevallen van schorsing van gebruikersaccounts voor deze reden. Gebruik op eigen risico.
-Lyra Music zal alleen je token extraheren, en al het andere wordt lokaal opgeslagen.</string>
+    <string name="discord_information">IotaMusic gebruikt de KizzyRPC bibliotheek om de status van je Discord account in te stellen. Dit houdt in dat je gebruik moet maken van de Discord Gateway connectie, wat kan worden beschouwd als een schending van de Discord TOS. Er zijn echter geen bekende gevallen van schorsing van gebruikersaccounts voor deze reden. Gebruik op eigen risico.
+IotaMusic zal alleen je token extraheren, en al het andere wordt lokaal opgeslagen.</string>
     <string name="options">Instellingen</string>
     <string name="preview">Voorvertoning</string>
     <string name="enable_discord_rpc">Rich Presence inschakelen</string>
@@ -679,7 +679,7 @@ Lyra Music zal alleen je token extraheren, en al het andere wordt lokaal opgesla
     <string name="latest_version_format">Nieuwste: %s</string>
     <string name="notification_settings">Notificatie</string>
     <string name="enable_update_notification">Updatemeldingen inschakelen</string>
-    <string name="enable_update_notification_desc">Krijg een melding wanneer een nieuwe Lyra Music update wordt uitgebracht</string>
+    <string name="enable_update_notification_desc">Krijg een melding wanneer een nieuwe IotaMusic update wordt uitgebracht</string>
     <string name="update_channel">Kanaal bijwerken</string>
     <string name="channel_stable">Stabiel</string>
     <string name="channel_nightly">Nachtelijk</string>
@@ -692,9 +692,9 @@ Lyra Music zal alleen je token extraheren, en al het andere wordt lokaal opgesla
     <string name="update_notification_channel_name">App updates</string>
     <string name="update_notification_channel_desc">Meldingen voor nieuwe app updates</string>
     <string name="update_notification_title">Update beschikbaar</string>
-    <string name="update_notification_text">Lyra Music %s is nu beschikbaar</string>
+    <string name="update_notification_text">IotaMusic %s is nu beschikbaar</string>
     <string name="download">downloaden</string>
-    <string name="permissions_title">Laat Lyra Music het beste werken</string>
+    <string name="permissions_title">Laat IotaMusic het beste werken</string>
     <string name="permissions_subtitle">We gebruiken een paar permissies om uw muziek op een betrouwbare manier te spelen en te beheren. U kunt deze op elk gewenst moment wijzigen in de systeeminstellingen.</string>
     <string name="permission_storage_title">Toegang tot opslag</string>
     <string name="permission_storage_desc">Vereist om je gedownloade en lokale audiobestanden te lezen om af te spelen.</string>
@@ -768,7 +768,7 @@ Lyra Music zal alleen je token extraheren, en al het andere wordt lokaal opgesla
     <string name="together_welcome_title">Welkom bij Lyra Muziek Samen</string>
     <string name="together_welcome_body">Muziek Samen laat meerdere apparaten een live sessie delen met een gesynchroniseerde wachtrij en afspelen.</string>
     <string name="together_welcome_host_title">Organiseer een sessie</string>
-    <string name="together_welcome_host_body">Druk op Start sessie, deel de sessie link. Houd Lyra Music open op de achtergrond tijdens het hosten.</string>
+    <string name="together_welcome_host_body">Druk op Start sessie, deel de sessie link. Houd IotaMusic open op de achtergrond tijdens het hosten.</string>
     <string name="together_welcome_join_title">Deelnemen vanaf een ander apparaat</string>
     <string name="together_welcome_join_body">Open de gedeelde link, of voer code in en tik op Join. Je wachtrij en afspelen zal de host volgen.</string>
     <string name="together_welcome_permissions_title">Machtigingen en veiligheid</string>

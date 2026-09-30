@@ -537,7 +537,7 @@
     <string name="restore_success">Sikkerhetskopi vellykket gjenopprettet</string>
     <string name="restore_failed">Gjenoppretting av sikkerhetskopi mislyktes.</string>
     <string name="discord_integration">Discord Integrasjon</string>
-    <string name="discord_information">Lyra Music bruker KizzyRPC biblioteket til å angi Discord-kontoens status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. Det er imidlertid ingen kjente tilfeller av at brukerkontoer blir suspendert av denne grunnen. Bruk på eget ansvar.
+    <string name="discord_information">IotaMusic bruker KizzyRPC biblioteket til å angi Discord-kontoens status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. Det er imidlertid ingen kjente tilfeller av at brukerkontoer blir suspendert av denne grunnen. Bruk på eget ansvar.
 Lyra Musikk får bare ut token din, og alt annet lagres lokalt.</string>
     <string name="options">Alternativer</string>
     <string name="preview">Forhåndsvisning</string>
@@ -765,7 +765,7 @@ Lyra Musikk får bare ut token din, og alt annet lagres lokalt.</string>
     <string name="together_error_state">Feil</string>
     <string name="got_it">Har det</string>
     <string name="together_dont_show_again">Ikke vis dette igjen</string>
-    <string name="together_welcome_title">Velkommen til Lyra Music Together</string>
+    <string name="together_welcome_title">Velkommen til IotaMusic Together</string>
     <string name="together_welcome_body">Musikk Sammen kan du dele en live økt med en synkronisert kø og avspilling.</string>
     <string name="together_welcome_host_title">Vert en økt</string>
     <string name="together_welcome_host_body">Trykk på Start sesjon, og del øktlinken. Hold Lyra musikk åpen i bakgrunnen mens du verter.</string>

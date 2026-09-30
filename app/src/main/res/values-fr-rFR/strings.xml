@@ -374,7 +374,7 @@
     <string name="custom_value">Valeur personnalisée</string>
     <string name="new_library_design">Nouveau design de la bibliothèque</string>
     <string name="new_library_design_description">Activer le nouveau design de la bibliothèque (peut être instable)</string>
-    <string name="OpenTune_canvas">Canvas Lyra Music</string>
+    <string name="OpenTune_canvas">Canvas IotaMusic</string>
     <string name="OpenTune_canvas_desc">Animation des pochettes d\'album pendant la lecture (grâce à BetterLyrics)</string>
     <string name="show_button1_description">Activer/désactiver l\'affichage du bouton 1 dans Discord Rich Presence</string>
     <string name="show_button2_description">Activer/désactiver l\'affichage du bouton 2 dans Discord Rich Presence</string>
@@ -420,7 +420,7 @@
     <string name="login">Connexion</string>
     <string name="not_logged_in">Non connecté</string>
     <string name="login_failed">Échec de la connexion</string>
-    <string name="playback_requires_youtube_music_confirmation">Validez la lecture dans YouTube Music, puis revenez à Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Validez la lecture dans YouTube Music, puis revenez à IotaMusic.</string>
     <string name="content_language">Langue par défaut du contenu</string>
     <string name="content_country">Pays par défaut pour le contenu</string>
     <string name="system_default">Paramètres par défaut du système</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Sauvegarde restaurée avec succès</string>
     <string name="restore_failed">Échec de la restauration de la sauvegarde</string>
     <string name="discord_integration">Intégration de Discord</string>
-    <string name="discord_information">Lyra Music utilise la bibliothèque KizzyRPC pour définir le statut de votre compte Discord. Cela implique l\'utilisation de la connexion Discord Gateway, ce qui peut être considéré comme une violation des conditions d\'utilisation de Discord. Cependant, aucun cas de suspension de compte d\'utilisateur pour cette raison n\'est connu. Utilisez cette fonctionnalité à vos propres risques.
-Lyra Music se contente d\'extraire votre jeton ; toutes les autres données sont stockées localement.</string>
+    <string name="discord_information">IotaMusic utilise la bibliothèque KizzyRPC pour définir le statut de votre compte Discord. Cela implique l\'utilisation de la connexion Discord Gateway, ce qui peut être considéré comme une violation des conditions d\'utilisation de Discord. Cependant, aucun cas de suspension de compte d\'utilisateur pour cette raison n\'est connu. Utilisez cette fonctionnalité à vos propres risques.
+IotaMusic se contente d\'extraire votre jeton ; toutes les autres données sont stockées localement.</string>
     <string name="options">Options</string>
     <string name="preview">Aperçu</string>
     <string name="enable_discord_rpc">Activer Rich Presence</string>
@@ -679,7 +679,7 @@ Lyra Music se contente d\'extraire votre jeton ; toutes les autres données sont
     <string name="latest_version_format">Dernière: %s</string>
     <string name="notification_settings">Notification</string>
     <string name="enable_update_notification">Activer la notification de mise à jour</string>
-    <string name="enable_update_notification_desc">Être notifié quand une nouvelle mise à jour de Lyra Music est publiée</string>
+    <string name="enable_update_notification_desc">Être notifié quand une nouvelle mise à jour de IotaMusic est publiée</string>
     <string name="update_channel">Canal de mise à jour</string>
     <string name="channel_stable">Écurie</string>
     <string name="channel_nightly">Nuit</string>
@@ -692,9 +692,9 @@ Lyra Music se contente d\'extraire votre jeton ; toutes les autres données sont
     <string name="update_notification_channel_name">Mises à jour de l\'application</string>
     <string name="update_notification_channel_desc">Notifications pour les nouvelles mises à jour de l\'application</string>
     <string name="update_notification_title">Mise à jour disponible</string>
-    <string name="update_notification_text">Lyra Music %s est maintenant disponible</string>
+    <string name="update_notification_text">IotaMusic %s est maintenant disponible</string>
     <string name="download">Télécharger</string>
-    <string name="permissions_title">Autoriser Lyra Music à fonctionner au mieux</string>
+    <string name="permissions_title">Autoriser IotaMusic à fonctionner au mieux</string>
     <string name="permissions_subtitle">Nous utilisons quelques autorisations pour lire et gérer votre musique de manière fiable. Vous pouvez les modifier à tout moment dans les paramètres du système.</string>
     <string name="permission_storage_title">Accès au stockage</string>
     <string name="permission_storage_desc">Requis pour lire vos fichiers audio téléchargés et locaux pour la lecture.</string>
@@ -765,10 +765,10 @@ Lyra Music se contente d\'extraire votre jeton ; toutes les autres données sont
     <string name="together_error_state">Erreur</string>
     <string name="got_it">Compris</string>
     <string name="together_dont_show_again">Ne plus afficher</string>
-    <string name="together_welcome_title">Bienvenue sur Lyra Music Together</string>
+    <string name="together_welcome_title">Bienvenue sur IotaMusic Together</string>
     <string name="together_welcome_body">Music Together permet à plusieurs périphériques de partager une session en direct avec une file d’attente et une lecture synchronisées.</string>
     <string name="together_welcome_host_title">Héberger une session</string>
-    <string name="together_welcome_host_body">Tapez sur Démarrer la session, puis partagez le lien de session. Gardez Lyra Music ouvert en arrière-plan pendant l\'hébergement.</string>
+    <string name="together_welcome_host_body">Tapez sur Démarrer la session, puis partagez le lien de session. Gardez IotaMusic ouvert en arrière-plan pendant l\'hébergement.</string>
     <string name="together_welcome_join_title">Rejoindre depuis un autre appareil</string>
     <string name="together_welcome_join_body">Ouvrez le lien partagé, ou entrez le code et appuyez sur Rejoindre. Votre file d\'attente et votre lecture suivront l\'hôte.</string>
     <string name="together_welcome_permissions_title">Autorisations et sécurité</string>

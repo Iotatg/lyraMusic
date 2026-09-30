@@ -438,7 +438,7 @@
     <string name="login">Přihlásit se</string>
     <string name="not_logged_in">Nepřihlášen</string>
     <string name="login_failed">Přihlášení se nezdařilo</string>
-    <string name="playback_requires_youtube_music_confirmation">Potvrďte přehrávání ve YouTube Music, poté se vraťte do Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Potvrďte přehrávání ve YouTube Music, poté se vraťte do IotaMusic.</string>
     <string name="content_language">Výchozí jazyk obsahu</string>
     <string name="content_country">Výchozí země obsahu</string>
     <string name="system_default">Výchozí nastavení systému</string>
@@ -555,8 +555,8 @@
     <string name="restore_success">Záloha byla úspěšně obnovena</string>
     <string name="restore_failed">Obnovení zálohy se nezdařilo</string>
     <string name="discord_integration">Integrace Discordu</string>
-    <string name="discord_information">Lyra Music používá KizzyRPC knihovnu k nastavení stavu tvého Discord účtu. To zahrnuje použití připojení Discord brateway, které může být považováno za porušení TOSu Discordu. Z tohoto důvodu však nejsou žádné známé případy pozastavení uživatelských účtů. Použijte na vlastní riziko.
-Lyra Music bude extrahovat pouze váš token a vše ostatní je uloženo lokálně.</string>
+    <string name="discord_information">IotaMusic používá KizzyRPC knihovnu k nastavení stavu tvého Discord účtu. To zahrnuje použití připojení Discord brateway, které může být považováno za porušení TOSu Discordu. Z tohoto důvodu však nejsou žádné známé případy pozastavení uživatelských účtů. Použijte na vlastní riziko.
+IotaMusic bude extrahovat pouze váš token a vše ostatní je uloženo lokálně.</string>
     <string name="options">Možnosti</string>
     <string name="preview">Náhled</string>
     <string name="enable_discord_rpc">Povolit Rich Presence</string>
@@ -783,7 +783,7 @@ Lyra Music bude extrahovat pouze váš token a vše ostatní je uloženo lokáln
     <string name="together_error_state">Chyba</string>
     <string name="got_it">Rozumím</string>
     <string name="together_dont_show_again">Příště nezobrazovat</string>
-    <string name="together_welcome_title">Vítejte v Lyra Music Together</string>
+    <string name="together_welcome_title">Vítejte v IotaMusic Together</string>
     <string name="together_welcome_body">Hudba Together umožňuje více zařízení sdílet živou relaci se synchronizovanou frontou a přehráváním.</string>
     <string name="together_welcome_host_title">Hostovat relaci</string>
     <string name="together_welcome_host_body">Klepněte na Start relace a poté sdílejte odkaz relace. Během hostování ponechte Lyra hudbu otevřenou na pozadí.</string>

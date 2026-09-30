@@ -556,7 +556,7 @@
     <string name="restore_failed">Не вдалося відновити резервну копію</string>
     <string name="discord_integration">Інтеграція з Discord</string>
     <string name="discord_information">Музика Lyra використовує бібліотеку KizzyRPC, щоб встановити статус вашого облікового запису Discord. Це передбачає використання з\'єднання з шлюзом Discord, що, можливо, вважається порушенням TOS Discord. Однак відомі випадки призупинені через цю причину. Використовуйте на свій страх і ризик.
-Lyra Music буде вилучати ваш токен, і все інше зберігається локально.</string>
+IotaMusic буде вилучати ваш токен, і все інше зберігається локально.</string>
     <string name="options">Опції</string>
     <string name="preview">Прев\'ю</string>
     <string name="enable_discord_rpc">Увімкнути режим Rich Presence</string>
@@ -710,7 +710,7 @@ Lyra Music буде вилучати ваш токен, і все інше зб�
     <string name="update_notification_channel_name">Оновлення застосунку</string>
     <string name="update_notification_channel_desc">Сповіщення про оновлення нових програм</string>
     <string name="update_notification_title">Доступне оновлення</string>
-    <string name="update_notification_text">Доступна Lyra Music %s</string>
+    <string name="update_notification_text">Доступна IotaMusic %s</string>
     <string name="download">Звантажити</string>
     <string name="permissions_title">Дозволити музики Lyra працювати найкраще</string>
     <string name="permissions_subtitle">Ми використовуємо декілька дозволів для відтворення та управління музикою. Ти можеш змінити це у будь-який час в системних налаштуваннях.</string>
@@ -783,7 +783,7 @@ Lyra Music буде вилучати ваш токен, і все інше зб�
     <string name="together_error_state">Помилка</string>
     <string name="got_it">Зрозуміло</string>
     <string name="together_dont_show_again">Не показувати це знову</string>
-    <string name="together_welcome_title">Ласкаво просимо до Lyra Music Together</string>
+    <string name="together_welcome_title">Ласкаво просимо до IotaMusic Together</string>
     <string name="together_welcome_body">Музика разом з іншими пристроями дозволяє поділитися деякими пристроями живу сесію синхронізованою чергою та відтворенням.</string>
     <string name="together_welcome_host_title">Створити сесію</string>
     <string name="together_welcome_host_body">Торкніться Запустити сеансу, та поділіться посиланням на сесію. Тримайте ліру відкритим під час розміщення музики на фоні.</string>

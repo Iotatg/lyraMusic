@@ -420,7 +420,7 @@
     <string name="login">Login</string>
     <string name="not_logged_in">Ikke logget ind</string>
     <string name="login_failed">Login mislykkedes</string>
-    <string name="playback_requires_youtube_music_confirmation">Bekræft afspilning i YouTube Music, og vend derefter tilbage til Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Bekræft afspilning i YouTube Music, og vend derefter tilbage til IotaMusic.</string>
     <string name="content_language">Standard indholdssprog</string>
     <string name="content_country">Standard indholdsland</string>
     <string name="system_default">System standard</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Backup gendannet succesfuldt</string>
     <string name="restore_failed">Kunne ikke gendanne sikkerhedskopi</string>
     <string name="discord_integration">Discord Integration</string>
-    <string name="discord_information">Lyra Music bruger KizzyRPC biblioteket til at indstille din Discord kontoens status. Dette indebærer brug af Discord Gateway forbindelse, som kan betragtes som en overtrædelse af Discord\'s TOS. Der er dog ingen kendte tilfælde af, at brugerkonti bliver suspenderet af denne grund. Brug på egen risiko.
-Lyra Music vil kun udtrække dit token, og alt andet er gemt lokalt.</string>
+    <string name="discord_information">IotaMusic bruger KizzyRPC biblioteket til at indstille din Discord kontoens status. Dette indebærer brug af Discord Gateway forbindelse, som kan betragtes som en overtrædelse af Discord\'s TOS. Der er dog ingen kendte tilfælde af, at brugerkonti bliver suspenderet af denne grund. Brug på egen risiko.
+IotaMusic vil kun udtrække dit token, og alt andet er gemt lokalt.</string>
     <string name="options">Indstillinger</string>
     <string name="preview">Eksempelvisning</string>
     <string name="enable_discord_rpc">Aktiver Rig Tilstedeværelse</string>
@@ -692,9 +692,9 @@ Lyra Music vil kun udtrække dit token, og alt andet er gemt lokalt.</string>
     <string name="update_notification_channel_name">App Opdateringer</string>
     <string name="update_notification_channel_desc">Notifikationer om nye appopdateringer</string>
     <string name="update_notification_title">Opdatering Tilgængelig</string>
-    <string name="update_notification_text">Lyra Music %s er nu tilgængelig</string>
+    <string name="update_notification_text">IotaMusic %s er nu tilgængelig</string>
     <string name="download">Hent</string>
-    <string name="permissions_title">Tillad Lyra Music at fungere bedst</string>
+    <string name="permissions_title">Tillad IotaMusic at fungere bedst</string>
     <string name="permissions_subtitle">Vi bruger et par tilladelser til at afspille og administrere din musik pålideligt. Du kan ændre disse når som helst i systemindstillinger.</string>
     <string name="permission_storage_title">Adgang til lager</string>
     <string name="permission_storage_desc">Nødvendig for at læse dine downloadede og lokale lydfiler til afspilning.</string>
@@ -768,7 +768,7 @@ Lyra Music vil kun udtrække dit token, og alt andet er gemt lokalt.</string>
     <string name="together_welcome_title">Velkommen til Lyra Musik sammen</string>
     <string name="together_welcome_body">Musik Sammen lader flere enheder dele en live session med en synkroniseret kø og afspilning.</string>
     <string name="together_welcome_host_title">Vært for en session</string>
-    <string name="together_welcome_host_body">Tryk på Start session, og del derefter sessionslinket. Hold Lyra Music åben i baggrunden, mens du hoster.</string>
+    <string name="together_welcome_host_body">Tryk på Start session, og del derefter sessionslinket. Hold IotaMusic åben i baggrunden, mens du hoster.</string>
     <string name="together_welcome_join_title">Tilslut fra en anden enhed</string>
     <string name="together_welcome_join_body">Åbn det delte link, eller indtast kode og tryk på Tilmeld. Din kø og afspilning vil følge værten.</string>
     <string name="together_welcome_permissions_title">Tilladelser og sikkerhed</string>

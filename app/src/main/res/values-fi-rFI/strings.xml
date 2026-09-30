@@ -374,7 +374,7 @@
     <string name="custom_value">Mukautettu arvo</string>
     <string name="new_library_design">Uuden kirjaston ulkoasu</string>
     <string name="new_library_design_description">Ota käyttöön uuden kirjaston ulkoasu (saattaa olla epävakaa)</string>
-    <string name="OpenTune_canvas">Lyra Music Canvas</string>
+    <string name="OpenTune_canvas">IotaMusic Canvas</string>
     <string name="OpenTune_canvas_desc">Animoi albumin taideteokset soitettaessa (Powered by BetterLyrics)</string>
     <string name="show_button1_description">Vaihda painikkeen 1 näkyvyyttä Discord Rich Presencessä</string>
     <string name="show_button2_description">Vaihda painikkeen 2 näkyvyyttä Discord Rich Presencessä</string>
@@ -420,7 +420,7 @@
     <string name="login">Kirjaudu</string>
     <string name="not_logged_in">Ei kirjautunut sisään</string>
     <string name="login_failed">Kirjautuminen epäonnistui</string>
-    <string name="playback_requires_youtube_music_confirmation">Vahvista toisto YouTube Musicissa ja palaa sitten Lyra Musiciin.</string>
+    <string name="playback_requires_youtube_music_confirmation">Vahvista toisto YouTube Musicissa ja palaa sitten IotaMusiciin.</string>
     <string name="content_language">Sisällön oletuskieli</string>
     <string name="content_country">Oletus sisältö maa</string>
     <string name="system_default">Järjestelmän oletus</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Varmuuskopiointi palautettu onnistuneesti</string>
     <string name="restore_failed">Varmuuskopion palauttaminen epäonnistui</string>
     <string name="discord_integration">Discord Integraatio</string>
-    <string name="discord_information">Lyra Music käyttää KizzyRPC-kirjastoa asettaakseen Discord-tilin tilan. Tämä tarkoittaa Discord Gateway yhteyden käyttöä, jota voidaan pitää Discordin TOS -rikkomuksena. Kuitenkaan ei ole tiedossa tapauksia, joissa käyttäjätilit olisi keskeytetty tästä syystä. Käytä omalla vastuulla.
-Lyra Music vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
+    <string name="discord_information">IotaMusic käyttää KizzyRPC-kirjastoa asettaakseen Discord-tilin tilan. Tämä tarkoittaa Discord Gateway yhteyden käyttöä, jota voidaan pitää Discordin TOS -rikkomuksena. Kuitenkaan ei ole tiedossa tapauksia, joissa käyttäjätilit olisi keskeytetty tästä syystä. Käytä omalla vastuulla.
+IotaMusic vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
     <string name="options">Valinnat</string>
     <string name="preview">Esikatselu</string>
     <string name="enable_discord_rpc">Ota Rikas Läsnäolo Käyttöön</string>
@@ -588,7 +588,7 @@ Lyra Music vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
     <string name="select_language">Valitse Kieli</string>
     <string name="close_dialog">Sulje</string>
     <string name="select_dialog">Valitse</string>
-    <string name="support_github">Star Lyra Music!</string>
+    <string name="support_github">Star IotaMusic!</string>
     <!-- Update dialog -->
     <string name="new_update_available">Uusi päivitys saatavilla</string>
     <string name="release_notes_unavailable">Julkaisutiedot eivät ole käytettävissä</string>
@@ -679,7 +679,7 @@ Lyra Music vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
     <string name="latest_version_format">Myöhäiset: %s</string>
     <string name="notification_settings">Ilmoitus</string>
     <string name="enable_update_notification">Ota Päivitysilmoitukset Käyttöön</string>
-    <string name="enable_update_notification_desc">Saat ilmoituksen, kun uusi Lyra Music -päivitys julkaistaan</string>
+    <string name="enable_update_notification_desc">Saat ilmoituksen, kun uusi IotaMusic -päivitys julkaistaan</string>
     <string name="update_channel">Päivitä Kanava</string>
     <string name="channel_stable">Vakaa</string>
     <string name="channel_nightly">Yöllä</string>
@@ -692,7 +692,7 @@ Lyra Music vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
     <string name="update_notification_channel_name">Sovelluksen Päivitykset</string>
     <string name="update_notification_channel_desc">Ilmoitukset uusista sovelluspäivityksistä</string>
     <string name="update_notification_title">Päivitys Saatavilla</string>
-    <string name="update_notification_text">Lyra Music %s on nyt saatavilla</string>
+    <string name="update_notification_text">IotaMusic %s on nyt saatavilla</string>
     <string name="download">Lataa</string>
     <string name="permissions_title">Salli Lyra Musiikin toimia parhaiten</string>
     <string name="permissions_subtitle">Käytämme muutamia käyttöoikeuksia musiikin soittamiseen ja hallintaan luotettavasti. Voit muuttaa niitä milloin tahansa järjestelmän asetuksista.</string>
@@ -765,10 +765,10 @@ Lyra Music vain poimia token, ja kaikki muu tallennetaan paikallisesti.</string>
     <string name="together_error_state">Virhe</string>
     <string name="got_it">Asia ymmärretty</string>
     <string name="together_dont_show_again">Älä näytä tätä uudelleen</string>
-    <string name="together_welcome_title">Tervetuloa Lyra Music yhdessä</string>
+    <string name="together_welcome_title">Tervetuloa IotaMusic yhdessä</string>
     <string name="together_welcome_body">Musiikki Yhdessä sallii useiden laitteiden jakaa live-istunnon synkronoidulla jonolla ja toistolla.</string>
     <string name="together_welcome_host_title">Isäntä istunto</string>
-    <string name="together_welcome_host_body">Napauta Käynnistä istunto ja jaa sitten istunnon linkki. Pidä Lyra Music avoinna taustalla isännöidessäsi.</string>
+    <string name="together_welcome_host_body">Napauta Käynnistä istunto ja jaa sitten istunnon linkki. Pidä IotaMusic avoinna taustalla isännöidessäsi.</string>
     <string name="together_welcome_join_title">Liity toisesta laitteesta</string>
     <string name="together_welcome_join_body">Avaa jaettu linkki tai kirjoita koodi ja napauta Liitä. Jonosi ja toisto seuraavat isäntää.</string>
     <string name="together_welcome_permissions_title">Käyttöoikeudet ja turvallisuus</string>

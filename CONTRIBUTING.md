@@ -1,6 +1,6 @@
-# Contributing to Lyra Music
+# Contributing to IotaMusic
 
-Thanks for helping improve Lyra Music.
+Thanks for helping improve IotaMusic.
 
 ## Report Bugs
 

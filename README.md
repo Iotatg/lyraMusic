@@ -1,14 +1,14 @@
 <div align="center">
 
-  <img src="assets/lyra_logo.png" width="130" height="130" alt="Lyra Music Logo" style="border-radius: 28px;" />
+  <img src="assets/icon.png" width="130" height="130" alt="IotaMusic Logo" style="border-radius: 28px;" />
 
-  # Lyra Music
+  # IotaMusic
 
   **A modern, elegant, and privacy-focused Android music player built with Jetpack Compose.**
 
   <p align="center">
-    <a href="https://github.com/lyraMusicApp/lyraMusic/releases"><img src="https://img.shields.io/github/v/release/lyraMusicApp/lyraMusic?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white" alt="Latest Release" /></a>
-    <a href="https://github.com/lyraMusicApp/lyraMusic/actions"><img src="https://img.shields.io/github/actions/workflow/status/lyraMusicApp/lyraMusic/releaseBuild.yml?branch=lyra&style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" /></a>
+    <a href="https://github.com/Iotatg/lyraMusic/releases"><img src="https://img.shields.io/github/v/release/Iotatg/lyraMusic?style=for-the-badge&color=8A2BE2&logo=github&logoColor=white" alt="Latest Release" /></a>
+    <a href="https://github.com/Iotatg/lyraMusic/actions"><img src="https://img.shields.io/github/actions/workflow/status/Iotatg/lyraMusic/releaseBuild.yml?branch=lyra&style=for-the-badge&logo=githubactions&logoColor=white" alt="Build Status" /></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-00B4D8?style=for-the-badge&logo=gnu" alt="License: GPLv3" /></a>
     <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Platform-Android%208.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android" /></a>
     <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Language-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Language: Kotlin" /></a>
@@ -30,10 +30,13 @@
 
 ## 📖 Overview
 
-**Lyra Music** is a high-performance, ad-free Android music streaming and local playback client powered by **Jetpack Compose** and **Material You (Material 3)**. Built from the ground up with aesthetics, speed, and privacy in mind, Lyra provides a seamless listening experience with rich audio playback, multi-provider synchronized lyrics, customizable player designs, dynamic ambient glow effects, and complete user freedom.
+**IotaMusic** is a high-performance, ad-free Android music streaming and local playback client powered by **Jetpack Compose** and **Material You (Material 3)**. Built from the ground up with aesthetics, speed, and privacy in mind, IotaMusic provides a seamless listening experience with rich audio playback, multi-provider synchronized lyrics, customizable player designs, dynamic ambient glow effects, and complete user freedom.
 
 > [!NOTE]
-> Lyra Music is 100% free and open source. No ads, no tracking, and no proprietary account lock-ins.
+> IotaMusic is a rebrand of Lyra Music. Package id is `com.iota.iotamusic`.
+>
+> [!NOTE]
+> IotaMusic is 100% free and open source. No ads, no tracking, and no proprietary account lock-ins.
 
 ---
 
@@ -58,7 +61,7 @@
 ### 📊 Real-Time Analytics & Leaderboard
 * **Live Listening Tracker**: Real-time count of total listening hours and songs played as music streams.
 * **Visualizer Pie Chart**: Interactive sliced-artwork visualizer categorizing your most played artists and genres.
-* **Community Leaderboard**: Compare listening milestones and discover trending tracks with other Lyra users.
+* **Community Leaderboard**: Compare listening milestones and discover trending tracks with other IotaMusic users.
 
 ### 🔌 Third-Party Integrations
 * **Discord Rich Presence**: Live playback status on your Discord profile via Kizzy RPC integration.
@@ -77,22 +80,22 @@ Download the latest signed release APK directly from GitHub Releases:
 
 <div align="center">
 
-[![Download Lyra Music](https://img.shields.io/badge/Download-Lyra%20Music%20v3.0.11%20APK-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/lyraMusicApp/lyraMusic/releases/download/v3.0.11/LyraMusic-foss-universal-release.apk)
+[![Download IotaMusic](https://img.shields.io/badge/Download-IotaMusic%20v3.0.11%20APK-10B981?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Iotatg/lyraMusic/releases/download/v3.0.11/IotaMusic-foss-universal-release.apk)
 
 </div>
 
 | Specification | Requirement |
 | :--- | :--- |
-| **Latest Version** | [v3.0.11](https://github.com/lyraMusicApp/lyraMusic/releases/tag/v3.0.11) |
+| **Latest Version** | [v3.0.11](https://github.com/Iotatg/lyraMusic/releases/tag/v3.0.11) |
 | **Minimum OS** | Android 8.0 (Oreo / API 26) |
 | **Recommended OS** | Android 12+ (API 31+) for Dynamic Monet Theming |
 | **Architecture** | `Universal` (FOSS release) |
-| **Package Asset** | [`LyraMusic-foss-universal-release.apk`](https://github.com/lyraMusicApp/lyraMusic/releases/download/v3.0.11/LyraMusic-foss-universal-release.apk) |
+| **Package Asset** | [`IotaMusic-foss-universal-release.apk`](https://github.com/Iotatg/lyraMusic/releases/download/v3.0.11/IotaMusic-foss-universal-release.apk) |
 
 Verify the release provenance with GitHub CLI:
 
 ```bash
-gh attestation verify LyraMusic-foss-universal-release.apk -R lyraMusicApp/lyraMusic
+gh attestation verify IotaMusic-foss-universal-release.apk -R Iotatg/lyraMusic
 ```
 
 ---
@@ -123,7 +126,7 @@ gh attestation verify LyraMusic-foss-universal-release.apk -R lyraMusicApp/lyraM
 
 1. **Clone the repository with submodules:**
    ```bash
-   git clone --recursive -b lyra https://github.com/lyraMusicApp/lyraMusic.git
+   git clone --recursive -b iotamusic https://github.com/Iotatg/lyraMusic.git
    cd lyraMusic
    ```
 
@@ -146,9 +149,9 @@ gh attestation verify LyraMusic-foss-universal-release.apk -R lyraMusicApp/lyraM
 
 ## 🛡️ DMCA & Legal Notice
 
-Lyra Music is an open-source client application that connects to publicly available third-party endpoints.
-* Lyra Music does not host, upload, or transmit copyrighted media files.
-* Lyra Music does not circumvent digital rights management (DRM) mechanisms.
+IotaMusic is an open-source client application that connects to publicly available third-party endpoints.
+* IotaMusic does not host, upload, or transmit copyrighted media files.
+* IotaMusic does not circumvent digital rights management (DRM) mechanisms.
 * All audio metadata, streams, and lyrics belong to their respective copyright holders.
 
 For takedown requests, questions, or designated agent details, please refer to our [DMCA Policy](DMCA.md) and [Security Policy](SECURITY.md).
@@ -168,12 +171,13 @@ Contributions, bug reports, and feature suggestions are always welcome!
 
 ## 📄 Credits & License
 
-* **Author & Maintainer**: [Shnwaz](https://github.com/shnwazdeveloper)
+* **Maintainer**: [Iota](https://github.com/Iotatg)
+* **Upstream**: [Lyra Music](https://github.com/lyraMusicApp/lyraMusic) by [Shnwaz](https://github.com/shnwazdeveloper), itself based on OpenTune
 * **License**: Released under the [GNU General Public License v3.0](LICENSE).
-* **Socials**: Connect with the developer on [GitHub](https://github.com/shnwazdeveloper).
+* **Channel**: [t.me/im_iota](https://t.me/im_iota)
 
 <div align="center">
 
-Made with ❤️ by [Shnwaz](https://github.com/shnwazdeveloper)
+Maintained by [Iota](https://github.com/Iotatg)
 
 </div>

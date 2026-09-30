@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-Lyra Music aims to be a welcoming project for everyone. Contributors and maintainers are expected to communicate with respect and keep the project space helpful, safe, and professional.
+IotaMusic aims to be a welcoming project for everyone. Contributors and maintainers are expected to communicate with respect and keep the project space helpful, safe, and professional.
 
 ## Expected Behavior
 

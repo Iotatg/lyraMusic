@@ -365,7 +365,7 @@
     <string name="custom_value">カスタム値</string>
     <string name="new_library_design">新しいライブラリデザイン</string>
     <string name="new_library_design_description">新しいライブラリデザインを有効にする (不安定な場合があります)</string>
-    <string name="OpenTune_canvas">Lyra Music Canvas</string>
+    <string name="OpenTune_canvas">IotaMusic Canvas</string>
     <string name="OpenTune_canvas_desc">再生中にアルバムアートワークをアニメーション化（Powered by BetterLyrics）</string>
     <string name="show_button1_description">Discord Rich Presenceのボタン1の表示を切り替える</string>
     <string name="show_button2_description">Discord Rich Presenceでボタン2の表示を切り替える</string>
@@ -411,7 +411,7 @@
     <string name="login">ログイン</string>
     <string name="not_logged_in">ログインしていません</string>
     <string name="login_failed">ログインに失敗しました</string>
-    <string name="playback_requires_youtube_music_confirmation">YouTube ミュージックで再生を確認し、Lyra Musicに戻ります。</string>
+    <string name="playback_requires_youtube_music_confirmation">YouTube ミュージックで再生を確認し、IotaMusicに戻ります。</string>
     <string name="content_language">デフォルトのコンテンツ言語</string>
     <string name="content_country">デフォルトのコンテンツの国</string>
     <string name="system_default">システムのデフォルト</string>
@@ -528,8 +528,8 @@
     <string name="restore_success">バックアップは正常に復元されました</string>
     <string name="restore_failed">バックアップの復元に失敗しました</string>
     <string name="discord_integration">Discord連携</string>
-    <string name="discord_information">Lyra MusicはKizzyRPCライブラリを使用してDiscordアカウントのステータスを設定します。 これにはDiscordゲートウェイ接続の使用が含まれます。これはDiscordのTOS違反とみなされる可能性があります。 ただし、この理由により一時停止されているユーザーアカウントの既知のケースはありません。自己責任で使用してください。
-Lyra Musicはトークンを抽出するだけで、他のすべてがローカルに保存されます。</string>
+    <string name="discord_information">IotaMusicはKizzyRPCライブラリを使用してDiscordアカウントのステータスを設定します。 これにはDiscordゲートウェイ接続の使用が含まれます。これはDiscordのTOS違反とみなされる可能性があります。 ただし、この理由により一時停止されているユーザーアカウントの既知のケースはありません。自己責任で使用してください。
+IotaMusicはトークンを抽出するだけで、他のすべてがローカルに保存されます。</string>
     <string name="options">オプション</string>
     <string name="preview">プレビュー</string>
     <string name="enable_discord_rpc">リッチプレゼンスを有効にする</string>
@@ -670,7 +670,7 @@ Lyra Musicはトークンを抽出するだけで、他のすべてがローカ�
     <string name="latest_version_format">最新： %s</string>
     <string name="notification_settings">Notification</string>
     <string name="enable_update_notification">更新通知を有効にする</string>
-    <string name="enable_update_notification_desc">新しいLyra Musicアップデートがリリースされたときに通知を受け取ります。</string>
+    <string name="enable_update_notification_desc">新しいIotaMusicアップデートがリリースされたときに通知を受け取ります。</string>
     <string name="update_channel">チャンネルを更新</string>
     <string name="channel_stable">安定版</string>
     <string name="channel_nightly">ナイトリー</string>
@@ -685,7 +685,7 @@ Lyra Musicはトークンを抽出するだけで、他のすべてがローカ�
     <string name="update_notification_title">アップデートがあります</string>
     <string name="update_notification_text">ライラ音楽 %s が利用可能になりました</string>
     <string name="download">ダウンロード</string>
-    <string name="permissions_title">Lyra Musicに最高の動作を許可する</string>
+    <string name="permissions_title">IotaMusicに最高の動作を許可する</string>
     <string name="permissions_subtitle">あなたの音楽を確実に再生および管理するためにいくつかの権限を使用します。これらはシステム設定でいつでも変更できます。</string>
     <string name="permission_storage_title">ストレージアクセス</string>
     <string name="permission_storage_desc">再生のためにダウンロードしたオーディオファイルとローカルオーディオファイルを読み取るために必要です。</string>
@@ -759,7 +759,7 @@ Lyra Musicはトークンを抽出するだけで、他のすべてがローカ�
     <string name="together_welcome_title">一緒にライラ音楽へようこそ</string>
     <string name="together_welcome_body">Music 一緒に複数のデバイスがライブセッションを同期されたキューと共有して再生できます。</string>
     <string name="together_welcome_host_title">セッションをホスト</string>
-    <string name="together_welcome_host_body">format@@0をタップし、セッションリンクを共有します。ホスト中は、Lyra Music をバックグラウンドで開いたままにします。</string>
+    <string name="together_welcome_host_body">format@@0をタップし、セッションリンクを共有します。ホスト中は、IotaMusic をバックグラウンドで開いたままにします。</string>
     <string name="together_welcome_join_title">別のデバイスから接続する</string>
     <string name="together_welcome_join_body">共有リンクを開くか、コードを入力してformat@@0をタップします。キューと再生はホストに従います。</string>
     <string name="together_welcome_permissions_title">権限と安全</string>

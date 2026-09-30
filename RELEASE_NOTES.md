@@ -1,9 +1,9 @@
-# Lyra Music v3.0.10
+# IotaMusic v3.0.10
 
 ## Highlights & What's New
 
 ### Security & Compliance
-- **Official Security Advisory**: Published [GHSA-f779-qgcj-q93q](https://github.com/lyraMusicApp/lyraMusic/security/advisories/GHSA-f779-qgcj-q93q).
+- **Official Security Advisory**: Published [GHSA-f779-qgcj-q93q](https://github.com/Iotatg/lyraMusic/security/advisories/GHSA-f779-qgcj-q93q).
 - **Hardened Architecture**: Isolated BotGuard / PoToken token generation in WebView sandbox, enforced strict TLS 1.3 encryption on all external network requests, validated lyrics parsers against malformed payloads, and added comprehensive DMCA safe-harbor compliance.
 
 ### 100% Transparent Navigation Bar
@@ -17,15 +17,15 @@
 ### Performance & Security
 - Safe signed production release APK signed with official release keystore (APK Signature Scheme v1, v2, v3, and v4).
 - Production release configuration with `isDebuggable = false`.
-- Migrated official application package name to `com.shnwaz.lyramusic`.
+- Migrated official application package name to `com.iota.iotamusic`.
 - Cleaned up background services and removed unused lock screen activity.
 
 ## App Details
 
-- Package: `com.shnwaz.lyramusic`
+- Package: `com.iota.iotamusic`
 - Version: `3.0.10`
 - Version Code: `144`
-- APK: `LyraMusic.apk` / `LyraMusic-v3.0.10.apk`
+- APK: `IotaMusic.apk` / `IotaMusic-v3.0.10.apk`
 
 ## Verification
 

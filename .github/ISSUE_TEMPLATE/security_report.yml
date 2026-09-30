@@ -8,7 +8,7 @@ body:
       value: |
         ### 🔒 Private Vulnerability Reporting
         Please do **NOT** disclose security vulnerabilities publicly if they pose a threat to users.
-        You can also report directly via [GitHub Security Advisories](https://github.com/lyraMusicApp/lyraMusic/security/advisories/new) or email **shnwazdeveloper@gmail.com**.
+        You can also report directly via [GitHub Security Advisories](https://github.com/Iotatg/lyraMusic/security/advisories/new) or email **shnwazdeveloper@gmail.com**.
   - type: textarea
     id: description
     attributes:
@@ -39,7 +39,7 @@ body:
     attributes:
       label: Affected Classes / Endpoints
       description: Which source files, classes, methods, or network endpoints are affected?
-      placeholder: "e.g., com.shnwaz.lyramusic.utils.YTPlayerUtils, /youtubei/v1/player"
+      placeholder: "e.g., com.iota.iotamusic.utils.YTPlayerUtils, /youtubei/v1/player"
     validations:
       required: true
   - type: textarea
@@ -48,7 +48,7 @@ body:
       label: Environment Information
       description: App version, Android version, device model, and build variant.
       value: |
-        - Lyra Music Version: v3.0.10
+        - IotaMusic Version: v3.0.10
         - Device Model: 
         - Android Version / API Level: 
         - Build Variant (Debug / Release): 

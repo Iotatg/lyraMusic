@@ -420,7 +420,7 @@
     <string name="login">Ingresar</string>
     <string name="not_logged_in">No conectado</string>
     <string name="login_failed">Error al iniciar sesión</string>
-    <string name="playback_requires_youtube_music_confirmation">Confirma la reproducción en YouTube Music, luego vuelve a Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Confirma la reproducción en YouTube Music, luego vuelve a IotaMusic.</string>
     <string name="content_language">Idioma de contenido por defecto</string>
     <string name="content_country">País de contenido por defecto</string>
     <string name="system_default">Sistema por defecto</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Copia de seguridad restaurada correctamente</string>
     <string name="restore_failed">Error al restaurar copia de seguridad</string>
     <string name="discord_integration">Integración de Discord</string>
-    <string name="discord_information">Lyra Music utiliza la biblioteca KizzyRPC para establecer el estado de tu cuenta de Discord. Esto implica usar la conexión de la puerta de enlace de Discord, que puede ser considerada una violación del TOS de Discord. Sin embargo, no hay casos conocidos de que se suspendan las cuentas de usuario por esta razón. Úsalo bajo tu propio riesgo.
-Lyra Music solo extraerá tu token, y todo lo demás se almacena localmente.</string>
+    <string name="discord_information">IotaMusic utiliza la biblioteca KizzyRPC para establecer el estado de tu cuenta de Discord. Esto implica usar la conexión de la puerta de enlace de Discord, que puede ser considerada una violación del TOS de Discord. Sin embargo, no hay casos conocidos de que se suspendan las cuentas de usuario por esta razón. Úsalo bajo tu propio riesgo.
+IotaMusic solo extraerá tu token, y todo lo demás se almacena localmente.</string>
     <string name="options">Opciones</string>
     <string name="preview">Vista previa</string>
     <string name="enable_discord_rpc">Habilitar la presencia enriquecida</string>
@@ -588,7 +588,7 @@ Lyra Music solo extraerá tu token, y todo lo demás se almacena localmente.</st
     <string name="select_language">Seleccionar Idioma</string>
     <string name="close_dialog">Cerrar</string>
     <string name="select_dialog">Seleccionar</string>
-    <string name="support_github">¡Star Lyra Music!</string>
+    <string name="support_github">¡Star IotaMusic!</string>
     <!-- Update dialog -->
     <string name="new_update_available">Nueva actualización disponible</string>
     <string name="release_notes_unavailable">Las notas de la versión no están disponibles</string>
@@ -679,7 +679,7 @@ Lyra Music solo extraerá tu token, y todo lo demás se almacena localmente.</st
     <string name="latest_version_format">Último: %s</string>
     <string name="notification_settings">Notificación</string>
     <string name="enable_update_notification">Activar notificación de actualización</string>
-    <string name="enable_update_notification_desc">Recibir notificaciones cuando se publique una nueva actualización de Lyra Music</string>
+    <string name="enable_update_notification_desc">Recibir notificaciones cuando se publique una nueva actualización de IotaMusic</string>
     <string name="update_channel">Actualizar canal</string>
     <string name="channel_stable">Estable</string>
     <string name="channel_nightly">Noche</string>
@@ -692,9 +692,9 @@ Lyra Music solo extraerá tu token, y todo lo demás se almacena localmente.</st
     <string name="update_notification_channel_name">Actualizaciones</string>
     <string name="update_notification_channel_desc">Notificaciones para actualizaciones de nuevas aplicaciones</string>
     <string name="update_notification_title">Actualización disponible</string>
-    <string name="update_notification_text">Lyra Music %s ya está disponible</string>
+    <string name="update_notification_text">IotaMusic %s ya está disponible</string>
     <string name="download">Descargar</string>
-    <string name="permissions_title">Permitir que Lyra Music funcione mejor</string>
+    <string name="permissions_title">Permitir que IotaMusic funcione mejor</string>
     <string name="permissions_subtitle">Utilizamos algunos permisos para reproducir y administrar tu música de forma fiable. Puedes cambiarlos en cualquier momento en los ajustes del sistema.</string>
     <string name="permission_storage_title">Acceso al almacenamiento</string>
     <string name="permission_storage_desc">Necesario para leer los archivos de audio descargados y locales para su reproducción.</string>
@@ -765,7 +765,7 @@ Lyra Music solo extraerá tu token, y todo lo demás se almacena localmente.</st
     <string name="together_error_state">Error</string>
     <string name="got_it">Entendido</string>
     <string name="together_dont_show_again">No volver a mostrar</string>
-    <string name="together_welcome_title">Bienvenido a Lyra Music Juntos</string>
+    <string name="together_welcome_title">Bienvenido a IotaMusic Juntos</string>
     <string name="together_welcome_body">Music Together permite a múltiples dispositivos compartir una sesión en vivo con una cola sincronizada y reproducción.</string>
     <string name="together_welcome_host_title">Hospedar una sesión</string>
     <string name="together_welcome_host_body">Pulse Iniciar sesión y luego comparta el enlace de sesión. Mantenga Lyra Música abierta en segundo plano mientras se aloja.</string>

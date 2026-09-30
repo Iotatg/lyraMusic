@@ -6,9 +6,9 @@
         android:shortcutId="search"
         android:shortcutShortLabel="@string/search">
         <intent
-            android:action="com.shnwaz.lyramusic.action.SEARCH"
-            android:targetClass="com.shnwaz.lyramusic.MainActivity"
-            android:targetPackage="com.shnwaz.lyramusic" />
+            android:action="com.iota.iotamusic.action.SEARCH"
+            android:targetClass="com.iota.iotamusic.MainActivity"
+            android:targetPackage="com.iota.iotamusic" />
     </shortcut>
     <shortcut
         android:enabled="true"
@@ -16,8 +16,8 @@
         android:shortcutId="library"
         android:shortcutShortLabel="@string/filter_library">
         <intent
-            android:action="com.shnwaz.lyramusic.action.LIBRARY"
-            android:targetClass="com.shnwaz.lyramusic.MainActivity"
-            android:targetPackage="com.shnwaz.lyramusic" />
+            android:action="com.iota.iotamusic.action.LIBRARY"
+            android:targetClass="com.iota.iotamusic.MainActivity"
+            android:targetPackage="com.iota.iotamusic" />
     </shortcut>
 </shortcuts>

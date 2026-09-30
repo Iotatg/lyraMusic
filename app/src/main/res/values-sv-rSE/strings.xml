@@ -374,7 +374,7 @@
     <string name="custom_value">Anpassat värde</string>
     <string name="new_library_design">Ny biblioteksdesign</string>
     <string name="new_library_design_description">Aktivera den nya biblioteksdesignen (kan vara instabil)</string>
-    <string name="OpenTune_canvas">Lyra Music Canvas</string>
+    <string name="OpenTune_canvas">IotaMusic Canvas</string>
     <string name="OpenTune_canvas_desc">Animera album konstverk medan du spelar (Powered av BetterLyrics)</string>
     <string name="show_button1_description">Växla synlighet av knappen 1 i Discord Rich Presence</string>
     <string name="show_button2_description">Växla synlighet av knapp 2 i Discord Rich Presence</string>
@@ -420,7 +420,7 @@
     <string name="login">Inloggning</string>
     <string name="not_logged_in">Inte inloggad</string>
     <string name="login_failed">Inloggning misslyckades</string>
-    <string name="playback_requires_youtube_music_confirmation">Bekräfta uppspelning i YouTube-musik och återvänd sedan till Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Bekräfta uppspelning i YouTube-musik och återvänd sedan till IotaMusic.</string>
     <string name="content_language">Standard innehållsspråk</string>
     <string name="content_country">Förvalt land för innehåll</string>
     <string name="system_default">Systemets standard</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Säkerhetskopieringen har återställts</string>
     <string name="restore_failed">Det gick inte att återställa säkerhetskopian</string>
     <string name="discord_integration">Discords integration</string>
-    <string name="discord_information">Lyra Music använder KizzyRPC-biblioteket för att ställa in Discord-kontots status. Det handlar om att använda Discord Gateway-anslutningen, vilket kan anses vara ett brott mot Discords användarvillkor. Det finns dock inga kända fall av att användarkonton stängs av av av denna anledning. Använd på egen risk.
-Lyra Music kommer bara att extrahera din token, och allt annat lagras lokalt.</string>
+    <string name="discord_information">IotaMusic använder KizzyRPC-biblioteket för att ställa in Discord-kontots status. Det handlar om att använda Discord Gateway-anslutningen, vilket kan anses vara ett brott mot Discords användarvillkor. Det finns dock inga kända fall av att användarkonton stängs av av av denna anledning. Använd på egen risk.
+IotaMusic kommer bara att extrahera din token, och allt annat lagras lokalt.</string>
     <string name="options">Alternativ</string>
     <string name="preview">Förhandsgranska</string>
     <string name="enable_discord_rpc">Aktivera Rich Presence</string>
@@ -679,7 +679,7 @@ Lyra Music kommer bara att extrahera din token, och allt annat lagras lokalt.</s
     <string name="latest_version_format">Senaste: %s</string>
     <string name="notification_settings">Avisering</string>
     <string name="enable_update_notification">Aktivera uppdateringsavisering</string>
-    <string name="enable_update_notification_desc">Få meddelande när en ny Lyra Music uppdatering släpps</string>
+    <string name="enable_update_notification_desc">Få meddelande när en ny IotaMusic uppdatering släpps</string>
     <string name="update_channel">Uppdatera kanal</string>
     <string name="channel_stable">Stabil</string>
     <string name="channel_nightly">Nattlig</string>
@@ -692,9 +692,9 @@ Lyra Music kommer bara att extrahera din token, och allt annat lagras lokalt.</s
     <string name="update_notification_channel_name">Appens uppdateringar</string>
     <string name="update_notification_channel_desc">Aviseringar för nya appuppdateringar</string>
     <string name="update_notification_title">Uppdatering tillgänglig</string>
-    <string name="update_notification_text">Lyra Music %s är nu tillgänglig</string>
+    <string name="update_notification_text">IotaMusic %s är nu tillgänglig</string>
     <string name="download">Hämta</string>
-    <string name="permissions_title">Tillåt Lyra Music att fungera bäst</string>
+    <string name="permissions_title">Tillåt IotaMusic att fungera bäst</string>
     <string name="permissions_subtitle">Vi använder några behörigheter för att spela och hantera din musik på ett tillförlitligt sätt. Du kan ändra dessa när som helst i systeminställningar.</string>
     <string name="permission_storage_title">Åtkomst till lagring</string>
     <string name="permission_storage_desc">Krävs för att läsa dina nedladdade och lokala ljudfiler för uppspelning.</string>
@@ -765,10 +765,10 @@ Lyra Music kommer bara att extrahera din token, och allt annat lagras lokalt.</s
     <string name="together_error_state">Fel</string>
     <string name="got_it">Jag fattar</string>
     <string name="together_dont_show_again">Visa inte detta igen</string>
-    <string name="together_welcome_title">Välkommen till Lyra Music Together</string>
+    <string name="together_welcome_title">Välkommen till IotaMusic Together</string>
     <string name="together_welcome_body">Musik Tillsammans låter flera enheter dela en live-session med en synkroniserad kö och uppspelning.</string>
     <string name="together_welcome_host_title">Värd en session</string>
-    <string name="together_welcome_host_body">Tryck på Start-sessionen och dela sedan sessionslänken. Håll Lyra Music öppen i bakgrunden medan du är hostad.</string>
+    <string name="together_welcome_host_body">Tryck på Start-sessionen och dela sedan sessionslänken. Håll IotaMusic öppen i bakgrunden medan du är hostad.</string>
     <string name="together_welcome_join_title">Gå med från en annan enhet</string>
     <string name="together_welcome_join_body">Öppna den delade länken, eller ange kod och tryck på Gå med. Din kö och uppspelning följer värden.</string>
     <string name="together_welcome_permissions_title">Behörigheter och säkerhet</string>

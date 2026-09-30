@@ -555,7 +555,7 @@
     <string name="restore_success">Резервная копия успешно восстановлена</string>
     <string name="restore_failed">Не удалось восстановить резервной копии</string>
     <string name="discord_integration">Интеграция с Discord</string>
-    <string name="discord_information">Lyra Music использует библиотеку KizzyRPC для установки статуса вашей учётной записи Discord. Это подразумевает использование соединения шлюза Discord, которое может считаться нарушением TOS Discord. Однако по этой причине не известно ни одного случая приостановки учетных записей пользователей. Используйте на свой страх и риск.
+    <string name="discord_information">IotaMusic использует библиотеку KizzyRPC для установки статуса вашей учётной записи Discord. Это подразумевает использование соединения шлюза Discord, которое может считаться нарушением TOS Discord. Однако по этой причине не известно ни одного случая приостановки учетных записей пользователей. Используйте на свой страх и риск.
 Музыка Lyra извлекает только ваш токен, и все остальное хранится локально.</string>
     <string name="options">Варианты</string>
     <string name="preview">Предпросмотр</string>
@@ -697,7 +697,7 @@
     <string name="latest_version_format">Последняя: %s</string>
     <string name="notification_settings">Уведомление</string>
     <string name="enable_update_notification">Включить уведомление об обновлении</string>
-    <string name="enable_update_notification_desc">Получать уведомления о выходе нового обновления Lyra Music</string>
+    <string name="enable_update_notification_desc">Получать уведомления о выходе нового обновления IotaMusic</string>
     <string name="update_channel">Канал обновления</string>
     <string name="channel_stable">Конюшня</string>
     <string name="channel_nightly">Ночной</string>
@@ -712,7 +712,7 @@
     <string name="update_notification_title">Доступно обновление</string>
     <string name="update_notification_text">Музыка Lyra %s теперь доступна</string>
     <string name="download">Скачать</string>
-    <string name="permissions_title">Разрешить лучшую работу Lyra Music</string>
+    <string name="permissions_title">Разрешить лучшую работу IotaMusic</string>
     <string name="permissions_subtitle">Мы используем несколько прав для надежного воспроизведения и управления музыкой. Вы можете изменить их в любое время в системных настройках.</string>
     <string name="permission_storage_title">Доступ к памяти</string>
     <string name="permission_storage_desc">Требуется для чтения загруженных и локальных аудио файлов для воспроизведения.</string>
@@ -786,7 +786,7 @@
     <string name="together_welcome_title">Добро пожаловать в музыку Lyra вместе</string>
     <string name="together_welcome_body">Музыка вместе позволяет нескольким устройствам обмениваться живым сеансом с синхронизированной очередью и воспроизведением.</string>
     <string name="together_welcome_host_title">Продать сеанс</string>
-    <string name="together_welcome_host_body">Нажмите \"Начать сессию\", а затем поделитесь ссылкой на сессию. Держите Lyra Music открытым в фоновом режиме.</string>
+    <string name="together_welcome_host_body">Нажмите \"Начать сессию\", а затем поделитесь ссылкой на сессию. Держите IotaMusic открытым в фоновом режиме.</string>
     <string name="together_welcome_join_title">Присоединиться с другого устройства</string>
     <string name="together_welcome_join_body">Откройте ссылку общего доступа или введите код и нажмите Присоединиться. Ваша очередь и воспроизведение будут следовать хосту.</string>
     <string name="together_welcome_permissions_title">Права и безопасность</string>

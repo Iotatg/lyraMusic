@@ -573,8 +573,8 @@
     <string name="restore_success">تم استعادة النسخ الاحتياطي بنجاح</string>
     <string name="restore_failed">فشل في استعادة النسخ الاحتياطي</string>
     <string name="discord_integration">تكامل ديسكورد</string>
-    <string name="discord_information">Lyra Music uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.
-Lyra Music will only extract your token, and everything else is stored locally.</string>
+    <string name="discord_information">IotaMusic uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.
+IotaMusic will only extract your token, and everything else is stored locally.</string>
     <string name="options">خيارات</string>
     <string name="preview">معاينة</string>
     <string name="enable_discord_rpc">تمكين الوجود الغني</string>
@@ -728,7 +728,7 @@ Lyra Music will only extract your token, and everything else is stored locally.<
     <string name="update_notification_channel_name">تحديثات التطبيق</string>
     <string name="update_notification_channel_desc">إشعارات لتحديثات التطبيقات الجديدة</string>
     <string name="update_notification_title">تحديث متوفر</string>
-    <string name="update_notification_text">Lyra Music %s متوفر الآن</string>
+    <string name="update_notification_text">IotaMusic %s متوفر الآن</string>
     <string name="download">تنزيل</string>
     <string name="permissions_title">السماح لموسيقى ليرا بالعمل بشكل أفضل</string>
     <string name="permissions_subtitle">نحن نستخدم بعض الأذونات لتشغيل الموسيقى الخاصة بك وإدارتها بشكل موثوق. يمكنك تغيير هذه في أي وقت في إعدادات النظام.</string>

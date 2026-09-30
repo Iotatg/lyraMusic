@@ -420,7 +420,7 @@
     <string name="login">Είσοδος</string>
     <string name="not_logged_in">Δεν έχετε συνδεθεί</string>
     <string name="login_failed">Αποτυχία σύνδεσης</string>
-    <string name="playback_requires_youtube_music_confirmation">Επιβεβαίωση αναπαραγωγής στο YouTube Music, και έπειτα επιστροφή στη Lyra Music.</string>
+    <string name="playback_requires_youtube_music_confirmation">Επιβεβαίωση αναπαραγωγής στο YouTube Music, και έπειτα επιστροφή στη IotaMusic.</string>
     <string name="content_language">Προεπιλεγμένη γλώσσα περιεχομένου</string>
     <string name="content_country">Προεπιλεγμένη χώρα περιεχομένου</string>
     <string name="system_default">Προεπιλογή συστήματος</string>
@@ -537,8 +537,8 @@
     <string name="restore_success">Επιτυχής επαναφορά αντιγράφου ασφαλείας</string>
     <string name="restore_failed">Αποτυχία επαναφοράς αντιγράφου ασφαλείας</string>
     <string name="discord_integration">Ενσωμάτωση Discord</string>
-    <string name="discord_information">Lyra Music uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.
-Lyra Music will only extract your token, and everything else is stored locally.</string>
+    <string name="discord_information">IotaMusic uses the KizzyRPC library to set your Discord account\'s status. This involves using the Discord Gateway connection, which may be considered a violation of Discord\'s TOS. However, there are no known cases of user accounts being suspended for this reason. Use at your own risk.
+IotaMusic will only extract your token, and everything else is stored locally.</string>
     <string name="options">Επιλογές</string>
     <string name="preview">Προεπισκόπηση</string>
     <string name="enable_discord_rpc">Ενεργοποίηση Rich Presence</string>
@@ -692,9 +692,9 @@ Lyra Music will only extract your token, and everything else is stored locally.<
     <string name="update_notification_channel_name">Ενημερώσεις Εφαρμογών</string>
     <string name="update_notification_channel_desc">Ειδοποιήσεις για νέες ενημερώσεις εφαρμογών</string>
     <string name="update_notification_title">Διαθέσιμη Ενημέρωση</string>
-    <string name="update_notification_text">Η Lyra Music %s είναι τώρα διαθέσιμη</string>
+    <string name="update_notification_text">Η IotaMusic %s είναι τώρα διαθέσιμη</string>
     <string name="download">Λήψη</string>
-    <string name="permissions_title">Επιτρέψτε στη Lyra Music να λειτουργήσει καλύτερα</string>
+    <string name="permissions_title">Επιτρέψτε στη IotaMusic να λειτουργήσει καλύτερα</string>
     <string name="permissions_subtitle">Χρησιμοποιούμε μερικά δικαιώματα για να αναπαράγουμε και να διαχειριζόμαστε τη μουσική σας αξιόπιστα. Μπορείτε να τα αλλάξετε ανά πάσα στιγμή στις ρυθμίσεις συστήματος.</string>
     <string name="permission_storage_title">Πρόσβαση αποθηκευτικού χώρου</string>
     <string name="permission_storage_desc">Απαιτείται να διαβάσετε τα κατεβασμένα και τοπικά αρχεία ήχου για αναπαραγωγή.</string>
@@ -768,7 +768,7 @@ Lyra Music will only extract your token, and everything else is stored locally.<
     <string name="together_welcome_title">Καλώς ήρθατε στη Μουσική Lyra Μαζί</string>
     <string name="together_welcome_body">Η μουσική μαζί επιτρέπει σε πολλές συσκευές να μοιράζονται μια ζωντανή συνεδρία με μια συγχρονισμένη ουρά και αναπαραγωγή.</string>
     <string name="together_welcome_host_title">Φιλοξενήστε μια συνεδρία</string>
-    <string name="together_welcome_host_body">Πατήστε Έναρξη συνεδρίας και μετά μοιραστείτε το σύνδεσμο συνεδρίας. Κρατήστε τη Lyra Music ανοιχτή στο παρασκήνιο κατά τη φιλοξενία.</string>
+    <string name="together_welcome_host_body">Πατήστε Έναρξη συνεδρίας και μετά μοιραστείτε το σύνδεσμο συνεδρίας. Κρατήστε τη IotaMusic ανοιχτή στο παρασκήνιο κατά τη φιλοξενία.</string>
     <string name="together_welcome_join_title">Συμμετοχή από άλλη συσκευή</string>
     <string name="together_welcome_join_body">Ανοίξτε τον κοινόχρηστο σύνδεσμο, ή εισάγετε τον κωδικό και αγγίξτε \"Σύνδεση\". Η ουρά και η αναπαραγωγή σας θα ακολουθήσουν τον κεντρικό υπολογιστή.</string>
     <string name="together_welcome_permissions_title">Δικαιώματα και ασφάλεια</string>
